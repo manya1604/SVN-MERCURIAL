@@ -137,7 +137,7 @@ svn merge file:///C:/svn_repos/my_repo/branches/feature-branch
 ```
 
 ![Branching](./Images/copyfile.png)
-![Merging](images/mergefile.png)
+![Merging](./Images/mergefile.png)
 
 ---
 
