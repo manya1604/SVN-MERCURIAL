@@ -1,4 +1,4 @@
-![Screenshot 2025-02-16 191317](https://github.com/user-attachments/assets/9d2d635c-baf8-4f58-a77d-41c5a416f724)# 🚀 Mastering Version Control: SVN & Mercurial
+# 🚀 Mastering Version Control: SVN & Mercurial
 
 ## 📚 Introduction to Version Control Systems
 
