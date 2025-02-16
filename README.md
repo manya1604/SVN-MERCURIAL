@@ -80,7 +80,7 @@ SVN (**Apache Subversion**) is a **centralized version control system (CVCS)** d
 svn --version
 ```
 
-![SVN Installation](./Images/version.png)
+![SVN Installation](./Images/VERSION.png)
 
 ---
 
