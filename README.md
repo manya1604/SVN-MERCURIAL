@@ -80,7 +80,7 @@ SVN (**Apache Subversion**) is a **centralized version control system (CVCS)** d
 svn --version
 ```
 
-![SVN Installation](images/svn-installation.png)
+![SVN Installation](./Images/version.png)
 
 ---
 
@@ -92,7 +92,7 @@ svn --version
 svnadmin create C:\svn_repos\my_repo
 ```
 
-![Creating Repo](images/create-repo.png)
+![Creating Repo](./Images/create.png)
 
 ✅ **Step 2: Checking Out a Repository**
 
@@ -100,16 +100,18 @@ svnadmin create C:\svn_repos\my_repo
 svn checkout file:///C:/svn_repos/my_repo C:\Users\YourUser\my_working_copy
 ```
 
-![Checkout Repo](images/checkout-repo.png)
+![Checkout Repo](./Images/checkout.png)
 
 ✅ **Step 3: Making Changes & Committing**
 
 ```sh
 svn add file.txt
 svn commit -m "Added file.txt"
-```
 
-![Commit Changes](images/commit-changes.png)
+```
+![Commit Changes](./Images/addfile.png)
+
+![Commit Changes](./Images/commit.png)
 
 ✅ **Step 4: Updating & Viewing Logs**
 
@@ -118,7 +120,6 @@ svn update
 svn log
 ```
 
-![Update & Log](images/update-log.png)
 
 ✅ **Step 5: Reverting Changes**
 
@@ -126,7 +127,7 @@ svn log
 svn revert file.txt
 ```
 
-![Revert Changes](images/revert-changes.png)
+
 
 ✅ **Step 6: Branching & Merging**
 
@@ -135,8 +136,8 @@ svn copy file:///C:/svn_repos/my_repo/trunk file:///C:/svn_repos/my_repo/branche
 svn merge file:///C:/svn_repos/my_repo/branches/feature-branch
 ```
 
-![Branching](images/branching.png)
-![Merging](images/merging.png)
+![Branching](./Images/copyfile.png)
+![Merging](images/mergefile.png)
 
 ---
 
