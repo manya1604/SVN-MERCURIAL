@@ -1,4 +1,4 @@
-# 🚀 Mastering Version Control: SVN & Mercurial
+![Screenshot 2025-02-16 191317](https://github.com/user-attachments/assets/9d2d635c-baf8-4f58-a77d-41c5a416f724)# 🚀 Mastering Version Control: SVN & Mercurial
 
 ## 📚 Introduction to Version Control Systems
 
@@ -159,7 +159,7 @@ svn merge file:///C:/svn_repos/my_repo/branches/feature-branch
 hg --version
 ```
 
-![Mercurial Installation](images/hg-installation.png)
+![Mercurial Installation](./Images/hgversion.png)
 
 ---
 
@@ -171,7 +171,7 @@ hg --version
 hg init my-hg-repo
 ```
 
-![Init Repo](images/init-repo.png)
+![Init Repo](./Images/repo.png)
 
 ✅ **Step 2: Adding & Committing Files**
 
@@ -180,7 +180,7 @@ hg add newfile.txt
 hg commit -m "Added newfile.txt"
 ```
 
-![Add & Commit](images/add-commit.png)
+![Add & Commit](./Images/file.png)
 
 ✅ **Step 3: Cloning, Updating & Reverting**
 
@@ -191,7 +191,8 @@ hg update
 hg log
 ```
 
-![Clone & Update](images/clone-update.png)
+![Clone & Update](./Images/clone.png)
+![Clone & Update](./Images/pull.png)
 
 ✅ **Step 4: Branching & Merging**
 
@@ -200,8 +201,8 @@ hg branch new-feature
 hg merge
 ```
 
-![Branching](images/hg-branching.png)
-![Merging](images/hg-merging.png)
+![Branching](./Images/last.png)
+
 
 ---
 
